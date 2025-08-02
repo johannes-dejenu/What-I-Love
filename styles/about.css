@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Libertinus+Sans:ital,wght@0,400;0,700;1,400&display=swap");
+
+p {
+  font-family: "Libertinus Sans", "sans sariff";
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 10px;
+  text-align: justify;
+}

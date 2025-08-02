@@ -1,6 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Libertinus+Sans:ital,wght@0,400;0,700;1,400&display=swap");
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
 h2 {
   color: red;
+  background-color: aqua;
+  padding: 12px;
+  margin: 6px;
 }
 div {
-  color: green;
+  color: rgb(155, 169, 155);
+}
+body {
+  background-color: #fff;
+  background: local;
+  background-image: url(/images/download.jpg);
+}
+.first {
+  font-family: "Lato", "sans sariff";
+  font-size: medium;
+  font-weight: 500;
+  line-height: 8px;
+  padding: 32px;
+  margin: 16px;
+  border: 10px;
+}
+ol {
+  color: #fff;
+  background-color: darkslateblue;
+}
+.sumAboutThug {
+  padding: 4px;
+  margin: 2px;
+  background-color: red;
 }
