@@ -11,21 +11,25 @@ h2 {
   margin: 6px;
 }
 div {
-  color: rgb(155, 169, 155);
+  color: black;
 }
-body {
+/* body {
   background-color: #fff;
-  background: local;
-  background-image: url(/images/download.jpg);
-}
+  /* background-image: url(/images/download.jpg); */
+
 .first {
-  font-family: "Lato", "sans sariff";
+  /* font-family: "Lato", "sans sariff"; */
   font-size: medium;
   font-weight: 500;
   line-height: 8px;
   padding: 32px;
   margin: 16px;
   border: 10px;
+}
+.second {
+  padding: 12px;
+  margin: 16px;
+  border: 2px solid black;
 }
 ol {
   color: #fff;
@@ -34,5 +38,5 @@ ol {
 .sumAboutThug {
   padding: 4px;
   margin: 2px;
-  background-color: red;
+  height: 32px;
 }
